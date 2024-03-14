@@ -63,9 +63,32 @@ Looping Across Worksheet (20 points)
 The VBA script can run on all sheets successfully.
 GitHub/GitLab Submission (15 points)
 All three of the following are uploaded to GitHub/GitLab:
-
 Screenshots of the results (5 points)
 
 Separate VBA script files (5 points)
 
 README file (5 points)
+
+Reference:
+-	Loop through worksheets 
+https://stackoverflow.com/questions/21918166/excel-vba-for-each-worksheet-loop
+-	Start Variables 
+https://stackoverflow.com/questions/21918166/excel-vba-for-each-worksheet-loop
+-	Set headers for summary table  
+https://stackoverflow.com/questions/62975110/vba-script-to-format-cells-within-a-column-range-only-formats-the-first-sheet-in
+-	Loop through each row in the sheet
+https://www.bing.com/search?q=%27+Check+if+the+current+row+has+a+different+ticker+symbol+++++++++++++If+ws.Cells%28i+%2B+1%2C+1%29.Value+%3C%3E+ws.Cells%28i%2C+1%29.Value+Then+++++++++++++++++%27+Set+ticker+symbol+++++++++++++++++ticker+%3D+ws.Cells%28i%2C+1%29.Value+++++++++++++++++&form=ANNTH1&refig=ee330c174ca24736a0e455c4c0322639&pc=U531
+-	Closing price
+-	https://stackoverflow.com/questions/76548179/dont-know-how-to-fix
+-	Percent change
+https://money.stackexchange.com/questions/84534/what-is-the-correct-answer-for-percent-change-when-the-start-amount-is-zero-doll
+-	Clear variables
+https://stackoverflow.com/questions/42980386/how-to-reset-variables-or-declarations-vba
+-	Set max values
+https://learn.microsoft.com/en-us/office/vba/api/excel.worksheet.cells
+-	Greatest percent decrease
+https://www.mashupmath.com/blog/calculating-percent-decrease
+-	greatest total volume               
+https://www.exceldome.com/solutions/if-a-cell-is-greater-than-a-specific-value/  
+-	greatest percent increase, decrease, and total volume       https://www.exceldome.com/solutions/if-a-cell-is-greater-than-a-specific-value/
+   
